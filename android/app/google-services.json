@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "584039779190",
+    "project_id": "mecho-mechanic",
+    "storage_bucket": "mecho-mechanic.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584039779190:android:fecf6e04cd4089e8d3c857",
+        "android_client_info": {
+          "package_name": "com.mechanic.mechanic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhsC_w9mPsWNsaJ8rE36606VFJeO1iZIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584039779190:android:3aa3084269ca712fd3c857",
+        "android_client_info": {
+          "package_name": "com.mecho.mecho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhsC_w9mPsWNsaJ8rE36606VFJeO1iZIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
